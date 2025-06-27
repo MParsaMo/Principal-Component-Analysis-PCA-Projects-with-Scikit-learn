@@ -1,0 +1,2 @@
+# Principal-Component-Analysis-PCA-Projects-with-Scikit-learn
+This repository contains two machine learning projects focused on PCA (Principal Component Analysis) for dimensionality reduction. Each project uses real-world digit image datasets and demonstrates a different purpose for PCA:  Digits Dataset → PCA for 2D Visualization  MNIST Dataset → PCA for Dimensionality Reduction (retain 95% variance)
