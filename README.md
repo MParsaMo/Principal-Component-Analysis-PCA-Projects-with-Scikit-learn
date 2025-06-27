@@ -54,9 +54,11 @@ Shape after PCA: (59500, XX)  # XX depends on how many components keep 95% varia
 
 
 📊 Summary Table
-Project	Dataset	PCA Goal	Output
-Digits Visualization	Digits (8x8)	Reduce to 2D for plotting	Scatter plot + Variance explained
-MNIST Dim Reduction	MNIST (28x28)	Keep 95% variance	Reduced feature size (~150 dims)
+| Project              | Dataset       | PCA Goal                  | Output                            |
+| -------------------- | ------------- | ------------------------- | --------------------------------- |
+| Digits Visualization | Digits (8x8)  | Reduce to 2D for plotting | Scatter plot + Variance explained |
+| MNIST Dim Reduction  | MNIST (28x28) | Keep 95% variance         | Reduced feature size (\~150 dims) |
+
 
 📌 Notes
 Digits project is ideal for understanding how PCA clusters different classes visually in 2D.
